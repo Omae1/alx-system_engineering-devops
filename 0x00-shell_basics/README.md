@@ -7,3 +7,4 @@
 6-firstdirectory; creates directory- my_first_directory in the tmp directory
 7-movethatfile; moves file betty to myfirstdirectory
 8-firstdelete; deletes betty from the myfirstdirectory
+9-firstdirdeletion; deletes myfirstdirectory from tmp
