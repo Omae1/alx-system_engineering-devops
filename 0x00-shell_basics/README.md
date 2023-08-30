@@ -6,3 +6,4 @@
 5-listfilesdigitonly; list content of directory in long format, displaying user and id numerically
 6-firstdirectory; creates directory- my_first_directory in the tmp directory
 7-movethatfile; moves file betty to myfirstdirectory
+8-firstdelete; deletes betty from the myfirstdirectory
