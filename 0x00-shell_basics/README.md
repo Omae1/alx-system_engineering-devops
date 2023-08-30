@@ -4,4 +4,5 @@
 3-listfiles; list files in a directory in long format
 4-listmorefiles; lists all files in a directory in long format including hidden files
 5-listfilesdigitonly; list content of directory in long format, displaying user and id numerically
-6firstdirectory; creates directory- my_first_directory in the tmp directory
+6-firstdirectory; creates directory- my_first_directory in the tmp directory
+7-movethatfile; moves file betty to myfirstdirectory
