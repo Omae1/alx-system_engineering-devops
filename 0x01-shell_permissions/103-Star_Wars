@@ -1,2 +1,2 @@
 #!/bin/bash
-mpv --vo caca
+telnet towel.blinkenlights.nl
