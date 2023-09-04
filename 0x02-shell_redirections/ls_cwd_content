@@ -1,0 +1,23 @@
+total 80
+drwxr-xr-x 2 root root 4096 Sep  4 11:32 .
+drwxr-xr-x 6 root root  130 Sep  4 03:31 ..
+-rwxr--r-- 1 root root   32 Sep  4 03:33 0-hello_world
+-rwxr--r-- 1 root root   28 Sep  4 04:01 1-confused_smiley
+-rwxr--r-- 1 root root   28 Sep  4 04:04 2-hellofile
+-rwxr--r-- 1 root root   39 Sep  4 04:44 3-twofiles
+-rwxr--r-- 1 root root   33 Sep  4 04:51 4-lastlines
+-rwxr--r-- 1 root root   33 Sep  4 04:53 5-firstlines
+-rwxr--r-- 1 root root   34 Sep  4 05:31 6-third_line
+-rwxr--r-- 1 root root   99 Sep  4 09:24 7-file
+-rwxr--r-- 1 root root   74 Sep  4 07:07 7-file.sh
+-rwxr--r-- 1 root root   36 Sep  4 11:32 8-cwd_state
+-rw-r--r-- 1 root root   40 Sep  4 07:22 \*\\'"Best
+-rw-r--r-- 1 root root   12 Sep  4 08:20 \*\\"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  4 09:25 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  4 07:20 \*\\'Best School\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  4 07:28 \*\\'Best School\\\\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  4 07:24 \*\\\"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   12 Sep  4 08:34 \*\\Best School$\*\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root 2851 Sep  4 04:26 cat
+-rw-r--r-- 1 root root    0 Sep  4 11:32 ls_cwd_content
+-rw-r--r-- 1 root root   29 Sep  4 03:37 README.md
